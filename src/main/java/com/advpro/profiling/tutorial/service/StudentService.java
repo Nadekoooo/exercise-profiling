@@ -7,9 +7,7 @@ import com.advpro.profiling.tutorial.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 
 /**
  * @author muhammad.khadafi
@@ -24,19 +22,31 @@ public class StudentService {
     private StudentCourseRepository studentCourseRepository;
 
     public List<StudentCourse> getAllStudentsWithCourses() {
+        // Retrieve all students in a single call and map them by their ID
         List<Student> students = studentRepository.findAll();
-        List<StudentCourse> studentCourses = new ArrayList<>();
+        Map<Long, Student> studentMap = new HashMap<>();
         for (Student student : students) {
-            List<StudentCourse> studentCoursesByStudent = studentCourseRepository.findByStudentId(student.getId());
-            for (StudentCourse studentCourseByStudent : studentCoursesByStudent) {
-                StudentCourse studentCourse = new StudentCourse();
-                studentCourse.setStudent(student);
-                studentCourse.setCourse(studentCourseByStudent.getCourse());
-                studentCourses.add(studentCourse);
+            studentMap.put(student.getId(), student);
+        }
+
+        // Retrieve all student-course associations in one call
+        List<StudentCourse> allStudentCourses = studentCourseRepository.findAll();
+        List<StudentCourse> result = new ArrayList<>(allStudentCourses.size());
+
+        // For each association, get the fully populated student from the map and construct a new association
+        for (StudentCourse sc : allStudentCourses) {
+            Long studentId = sc.getStudent().getId();
+            Student student = studentMap.get(studentId);
+            if (student != null) {
+                StudentCourse newSC = new StudentCourse();
+                newSC.setStudent(student);
+                newSC.setCourse(sc.getCourse());
+                result.add(newSC);
             }
         }
-        return studentCourses;
+        return result;
     }
+
 
     public Optional<Student> findStudentWithHighestGpa() {
         List<Student> students = studentRepository.findAll();
