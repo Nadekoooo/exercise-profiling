@@ -110,13 +110,3 @@
   Catat hasil perbandingan sebelum dan sesudah optimasi di README.md sebagai referensi dan verifikasi.
 
 ---
-
-## Kesimpulan
-
-Latihan ini menunjukkan bahwa **pengujian performa** dengan JMeter dan **profiling** dengan IntelliJ Profiler merupakan dua metode yang saling melengkapi:
-
-- **JMeter** memberikan gambaran kinerja aplikasi dari perspektif pengguna dengan mengukur waktu respons secara menyeluruh.
-- **IntelliJ Profiler** menyediakan analisis mendalam pada kode, membantu menemukan bottleneck dan area yang perlu dioptimasi secara spesifik.
-
-Dengan menggabungkan kedua pendekatan ini serta menerapkan strategi pengujian berulang, validasi silang, dan dokumentasi yang baik, kita dapat melakukan optimasi kode yang efektif tanpa mengorbankan fungsionalitas aplikasi.
-
