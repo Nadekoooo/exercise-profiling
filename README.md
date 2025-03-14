@@ -110,3 +110,20 @@
   Catat hasil perbandingan sebelum dan sesudah optimasi di README.md sebagai referensi dan verifikasi.
 
 ---
+
+
+![Screenshot 2025-03-14 203536](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20203536.png?raw=true)
+
+![Screenshot 2025-03-14 205019](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20205019.png?raw=true)
+
+![Screenshot 2025-03-14 205929](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20205929.png?raw=true)
+
+![Screenshot 2025-03-14 205507](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20205507.png?raw=true)
+
+![Screenshot 2025-03-14 210821](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20210821.png?raw=true)
+
+![Screenshot 2025-03-14 211154](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20211154.png?raw=true)
+
+![Screenshot 2025-03-14 211630](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20211630.png?raw=true)
+
+![Screenshot 2025-03-14 211710](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20211710.png?raw=true)
