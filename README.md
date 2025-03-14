@@ -120,4 +120,3 @@ Latihan ini menunjukkan bahwa **pengujian performa** dengan JMeter dan **profili
 
 Dengan menggabungkan kedua pendekatan ini serta menerapkan strategi pengujian berulang, validasi silang, dan dokumentasi yang baik, kita dapat melakukan optimasi kode yang efektif tanpa mengorbankan fungsionalitas aplikasi.
 
-![img.png](img.png)
