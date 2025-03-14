@@ -112,18 +112,18 @@
 ---
 
 
-![Screenshot 2025-03-14 203536](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss1.png?raw=true)
+![Screenshot 2025-03-14 203536](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss1.png?raw=true)
 
-![Screenshot 2025-03-14 205019](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss2.png?raw=true)
+![Screenshot 2025-03-14 205019](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss2.png?raw=true)
 
-![Screenshot 2025-03-14 205929](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss3.png?raw=true)
+![Screenshot 2025-03-14 205929](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss3.png?raw=true)
 
-![Screenshot 2025-03-14 205507](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss4.png?raw=true)
+![Screenshot 2025-03-14 205507](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss4.png?raw=true)
 
-![Screenshot 2025-03-14 210821](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss5.png?raw=true)
+![Screenshot 2025-03-14 210821](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss5.png?raw=true)
 
-![Screenshot 2025-03-14 211154](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss6.png?raw=true)
+![Screenshot 2025-03-14 211154](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss6.png?raw=true)
 
-![Screenshot 2025-03-14 211630](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss7.png?raw=true)
+![Screenshot 2025-03-14 211630](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss7.png?raw=true)
 
-![Screenshot 2025-03-14 211710](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss8.png?raw=true)
+![Screenshot 2025-03-14 211710](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss8.png?raw=true)
