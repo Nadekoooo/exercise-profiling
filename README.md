@@ -110,3 +110,13 @@
   Catat hasil perbandingan sebelum dan sesudah optimasi di README.md sebagai referensi dan verifikasi.
 
 ---
+
+
+![Screenshot 2025-03-14 203536](screenshots/Screenshot%202025-03-14%20203536.png)
+![Screenshot 2025-03-14 205019](screenshots/Screenshot%202025-03-14%20205019.png)
+![Screenshot 2025-03-14 205929](screenshots/Screenshot%202025-03-14%20205929.png)
+![Screenshot 2025-03-14 205507](screenshots/Screenshot%202025-03-14%20205507.png)
+![Screenshot 2025-03-14 210821](screenshots/Screenshot%202025-03-14%20210821.png)
+![Screenshot 2025-03-14 211154](screenshots/Screenshot%202025-03-14%20211154.png)
+![Screenshot 2025-03-14 211630](screenshots/Screenshot%202025-03-14%20211630.png)
+![Screenshot 2025-03-14 211710](screenshots/Screenshot%202025-03-14%20211710.png)
