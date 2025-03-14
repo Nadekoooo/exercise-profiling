@@ -112,18 +112,18 @@
 ---
 
 
-![Screenshot 2025-03-14 203536](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20203536.png?raw=true)
+![Screenshot 2025-03-14 203536](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss1.png?raw=true)
 
-![Screenshot 2025-03-14 205019](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20205019.png?raw=true)
+![Screenshot 2025-03-14 205019](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss2.png?raw=true)
 
-![Screenshot 2025-03-14 205929](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20205929.png?raw=true)
+![Screenshot 2025-03-14 205929](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss3.png?raw=true)
 
-![Screenshot 2025-03-14 205507](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20205507.png?raw=true)
+![Screenshot 2025-03-14 205507](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss4.png?raw=true)
 
-![Screenshot 2025-03-14 210821](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20210821.png?raw=true)
+![Screenshot 2025-03-14 210821](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss5.png?raw=true)
 
-![Screenshot 2025-03-14 211154](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20211154.png?raw=true)
+![Screenshot 2025-03-14 211154](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss6.png?raw=true)
 
-![Screenshot 2025-03-14 211630](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20211630.png?raw=true)
+![Screenshot 2025-03-14 211630](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss7.png?raw=true)
 
-![Screenshot 2025-03-14 211710](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/Screenshot%202025-03-14%20211710.png?raw=true)
+![Screenshot 2025-03-14 211710](https://github.com/Nadekoooo/exercise-profiling/blob/main/screenshots/ss8.png?raw=true)
