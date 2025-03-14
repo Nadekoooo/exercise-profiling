@@ -112,9 +112,6 @@
 ---
 
 
-![Screenshot 2025-03-14 203536](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss1.png?raw=true)
-
-![Screenshot 2025-03-14 205019](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss2.png?raw=true)
 
 ![Screenshot 2025-03-14 205929](https://github.com/Nadekoooo/exercise-profiling/blob/main/ss3.png?raw=true)
 
